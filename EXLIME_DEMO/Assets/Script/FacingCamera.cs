@@ -21,7 +21,7 @@ public class FacingCamera : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        for(int i = 0; i < children.Length; i++)
+        for (int i = 0; i < children.Length; i++)
         {
             // Set the rotation of each child object to be the same as the parent object
             children[i].rotation = Camera.main.transform.rotation;
