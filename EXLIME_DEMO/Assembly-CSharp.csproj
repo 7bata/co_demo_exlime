@@ -62,7 +62,16 @@
   <ItemGroup>
     <Compile Include="Assets\Script\FacingCamera.cs" />
     <Compile Include="Assets\Script\RotatingCamera.cs" />
+    <Compile Include="Assets\Gif\Dependencie_Unity_Package\Ruccho\FangAutoTile\FangAutoTilePattern.cs" />
+    <Compile Include="Assets\Gif\Super_Retro_Collection\Scripts\CharacterAppearance.cs" />
+    <Compile Include="Assets\Gif\Super_Retro_Collection\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Gif\Dependencie_Unity_Package\Ruccho\FangAutoTile\FangAutoTile.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Gif\README.txt" />
+    <None Include="Assets\Gif\Dependencie_Unity_Package\Ruccho\FangAutoTile\Readme.txt" />
+    <None Include="Assets\Gif\Dependencie_Unity_Package\Ruccho\FangAutoTile\Readme-ja.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -971,6 +980,10 @@
     </Reference>
     <Reference Include="Unity.2D.Aseprite.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Aseprite.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">

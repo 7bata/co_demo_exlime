@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1427
     height: 805
   m_ShowMode: 4
-  m_Title: "\u6E38\u620F"
+  m_Title: "\u9879\u76EE"
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -467,7 +467,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/animation
+    - Assets/Gif/Super_Retro_Collection/Resources/ARPG/character_0
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -475,16 +475,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/animation
+  - Assets/Gif/Super_Retro_Collection/Resources/ARPG/character_0
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\programming coding\unitygaming\Online_6potatoz\co_demo_exlime\EXLIME_DEMO
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 95}
-    m_SelectedIDs: a4700000
-    m_LastClickedID: 28836
-    m_ExpandedIDs: 00000000266f0000286f00002a6f00002c6f00002e6f000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 4a720000
+    m_LastClickedID: 29258
+    m_ExpandedIDs: 00000000266f00002a6f00002c6f00002e6f0000b6710000c6710000da71000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -609,7 +609,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 501
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -652,9 +652,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 626e0000
-      m_LastClickedID: 28258
-      m_ExpandedIDs: 08fbffff866e0000a26e0000
+      m_SelectedIDs: 4a720000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 08fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
