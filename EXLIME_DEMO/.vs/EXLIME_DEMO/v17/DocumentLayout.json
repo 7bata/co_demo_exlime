@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime\\EXLIME_DEMO\\",
+  "WorkspaceRootPath": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime\\EXLIME_DEMO\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|d:\\programming coding\\unitygaming\\online_6potatoz\\co_demo_exlime_update\\exlime_demo\\assets\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|solutionrelative:assets\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\assets\\script\\playercobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\assets\\script\\gameovercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameovercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\assets\\script\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\assets\\script\\rotatingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rotatingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|solutionrelative:assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\assets\\script\\facingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7989B9-9729-51B1-392D-0CE1D0270FAF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\facingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +50,100 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime\\EXLIME_DEMO\\Assets\\Script\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
-              "ToolTip": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime\\EXLIME_DEMO\\Assets\\Script\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAwCsAAAAMAAAA",
+              "DocumentIndex": 3,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Script\\Food.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Food.cs",
+              "ToolTip": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Script\\Food.cs",
+              "RelativeToolTip": "Assets\\Script\\Food.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T01:11:15.512Z",
+              "WhenOpened": "2024-07-23T04:51:08.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOverControl.cs",
+              "DocumentMoniker": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Script\\GameOverControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameOverControl.cs",
+              "ToolTip": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Script\\GameOverControl.cs",
+              "RelativeToolTip": "Assets\\Script\\GameOverControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:14:08.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerCObject.cs",
+              "DocumentMoniker": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Script\\PlayerCObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerCObject.cs",
+              "ToolTip": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Script\\PlayerCObject.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerCObject.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:43:58.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "playerhealth.cs",
+              "DocumentMoniker": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\playerhealth.cs",
+              "RelativeDocumentMoniker": "Assets\\playerhealth.cs",
+              "ToolTip": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\playerhealth.cs",
+              "RelativeToolTip": "Assets\\playerhealth.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvwgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:32:24.048Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Healthbar.cs",
+              "DocumentMoniker": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Healthbar.cs",
+              "RelativeDocumentMoniker": "Assets\\Healthbar.cs",
+              "ToolTip": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Healthbar.cs",
+              "RelativeToolTip": "Assets\\Healthbar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:27:18.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FacingCamera.cs",
+              "DocumentMoniker": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Script\\FacingCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FacingCamera.cs",
+              "ToolTip": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Script\\FacingCamera.cs",
+              "RelativeToolTip": "Assets\\Script\\FacingCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:22:39.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RotatingCamera.cs",
+              "DocumentMoniker": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Script\\RotatingCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RotatingCamera.cs",
+              "ToolTip": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Script\\RotatingCamera.cs",
+              "RelativeToolTip": "Assets\\Script\\RotatingCamera.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:21:48.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "D:\\programming coding\\unitygaming\\Online_6potatoz\\co_demo_exlime_update\\EXLIME_DEMO\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T01:11:15.512Z"
             }
           ]
         }

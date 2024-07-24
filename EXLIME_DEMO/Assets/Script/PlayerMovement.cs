@@ -1,9 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class Player : MonoBehaviour
+public class player : MonoBehaviour
 {
+    public static player instance;  
+    public int max_length = 5;
     //声明变量
     public float speed;
     private Rigidbody2D rig;
@@ -13,9 +16,14 @@ public class Player : MonoBehaviour
     private float stopX;
     private float stopY;
     private Vector3 offset;
+    public Slider slider;
+    //
+    public bool isMoving;   
+
     // Start is called before the first frame update初始数据创建
     void Start()
     {
+        instance = this;
         //get the component of player by using "GetComponent"
         rig = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
@@ -40,9 +48,11 @@ public class Player : MonoBehaviour
             animator.SetBool("isMoving", true);
             stopX = inputX;
             stopY = inputY;
+            isMoving = true;
         }
         else
         {
+            isMoving = false;
             animator.SetBool("isMoving", false);
         }
         //将方向传给animator,让unity内的blendtree判断人物动画方向

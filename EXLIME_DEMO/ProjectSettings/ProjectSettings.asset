@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: "EXLIME\u2014\u2014DEMO"
+  companyName: 6potatoz
+  productName: EXLIME_DEMO
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -674,7 +674,7 @@ PlayerSettings:
   cloudProjectId: 7919dcfe-5a8a-4779-9b0a-4e28da08ac23
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: EXLIME——DEMO 2024-07-21_16-08-41
+  projectName: "EXLIME\u2014\u2014DEMO 2024-07-21_16-08-41"
   organizationId: wechat_os_qy0y3n34sdu1t4gi_84m_nhta
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
