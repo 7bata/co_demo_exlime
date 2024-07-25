@@ -4,4 +4,4 @@ The first idea came from an activity in X-institute; the first demo was created 
 We hope everyone can find their answers to the question, which is "How can we do research by playing games".
 Enjoy and have fun!
 
-                                                                                                                                                          -team 6Potatoz
+-team 6Potatoz
