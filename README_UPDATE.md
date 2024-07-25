@@ -1,4 +1,5 @@
 # co_demo_exlime
+7/24/2024
 The first formal demo!!!!!!! let's go!!!!!!!
 Add contents:
 1. Improve the basic movement control
