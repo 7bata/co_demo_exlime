@@ -6,7 +6,12 @@ Enjoy and have fun!
 
 -team 6Potatoz
 Member List (Alphabetic Order)
- Celestina Li 李圜祺, Eddie Zhang 张浩哲, Tony Jiang 蒋丁幻城, Sabrina Yang 杨昀, Serina Wu 吴泽尘, William Yan 阎绍雄
+ Celestina Li 李圜祺, 
+ Eddie Zhang 张浩哲, 
+ Tony Jiang 蒋丁幻城, 
+ Sabrina Yang 杨昀, 
+ Serina Wu 吴泽尘, 
+ William Yan 阎绍雄
 
  
  
